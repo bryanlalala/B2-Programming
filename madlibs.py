@@ -1,3 +1,9 @@
+"""
+Filename: madlibs.py
+Author: <Nunez, Bryan>
+Created: <9/28/2026>
+Instructor: Mr Burgess
+"""
 Q1 = input("enter the adjective ")
 Q2 = input("enter the noun ")
 Q3 = input("enter a proper noun (name) ")
