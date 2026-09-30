@@ -1,3 +1,8 @@
+"""
+Filename: conditional_calculator.py
+Author: <Nunez, Bryan>
+Created: <9/30/2026>
+"""
 print("Welcome to Conditional calculator.")
 print("the calculator will ask the user to input their first number, then input the operation \n(add +, subtract -, multiply *, or divide /) they desire to perform, and then their second number. \nThe calculator will then perform only the operation that the user requested ")
 
