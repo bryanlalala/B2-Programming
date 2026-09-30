@@ -11,7 +11,7 @@ op=input("On the line below: type + for addition, type - for subtraction, type *
 print("insert second number on the line below ")
 n2=int(input("number 2:"))
 
-# Notice the indents below and the colon added to the division line
+
 if op=="+":
     print(f"{n1} + {n2} = {n1+n2}")
 elif op=="-":
