@@ -164,7 +164,7 @@ else:
 print("What is the name of the wizarding school that Harry Potter attends?")
 answer10 = input("Answer: ").lower()
 
-if answer10 == "hogwarts":
+if answer10 == "hogwarts" or "mogwarts":
     total_score = total_score + 2
     correct_questions = correct_questions + 1
     print("Correct! You have been awarded 2 points!\n")
